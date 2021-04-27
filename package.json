@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-fail-comment",
+  "version": "0.1.0",
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ],
+  "description": "An Eslint plugin which enables the creation of fail comments to remind yourself about a change you would like to reverse before committing",
+  "main": "index.js",
+  "license": "Apache-2.0"
+}
